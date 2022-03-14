@@ -28,6 +28,7 @@ Refactored Google book search with book saving functionality.
 ## Link
 
 [GitHub](https://github.com/CyanideTheJuggla/book-search-refactor)
+
 [Heroku](https://book-search-refactor.herokuapp.com/)
 
 ## Contributing
